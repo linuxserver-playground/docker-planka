@@ -470,7 +470,7 @@ nghttp2-libs                               1.70.0-r0         apk
 node-addon-api                             8.9.0             npm                               
 node-gyp                                   12.2.0            npm                               
 node-gyp-build                             4.8.4             npm                               
-nodejs                                     24.22.1-r0        apk                               
+nodejs                                     24.22.1-r1        apk                               
 nodemailer                                 9.0.3             npm                               
 nopt                                       9.0.0             npm                               
 npm                                        11.12.1           npm                               
@@ -485,7 +485,7 @@ npm-pick-manifest                          11.0.3            npm
 npm-profile                                12.0.1            npm                               
 npm-registry-fetch                         19.1.1            npm                               
 npm-user-validate                          4.0.0             npm                               
-oauthlib                                   4.0.0             python          (+1 duplicate)    
+oauthlib                                   4.0.1             python          (+1 duplicate)    
 object-assign                              4.1.1             npm                               
 object-inspect                             1.13.4            npm                               
 object-keys                                1.1.1             npm                               
